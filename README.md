@@ -1,2 +1,1 @@
-# discussions
-Discussions for NoneBot-related repos.
+# NoneBot 讨论版
